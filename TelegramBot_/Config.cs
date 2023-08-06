@@ -15,7 +15,6 @@ namespace TelegramBot_
         public const string PATH = "D:\\TelegramBot";
 
         public const string START_TEXT = "Привет! \n" +
-                                  "Этот бот - работа @paralands для его резюме \n" +
                                   "<b>Основные функции:</b> \n" +
                                   "<b>Math</b> - подробнее читайте в /mathInfo \n" +
                                   "<b>Парсинг</b> - все данные, отправленные сюда, сохраняются в папку юзера \n\n" + 
