@@ -9,7 +9,7 @@ namespace TelegramBot_
     public static class Config
     {
         //Bot token
-        public const string TOKEN = "6313132236:AAEejFxAhDnL1ft5PLBjyJuNtEckgpO9ezc";
+        public const string TOKEN = "YOUR TOKEN";
 
         //Path where all the info will be saved
         public const string PATH = "D:\\TelegramBot";
